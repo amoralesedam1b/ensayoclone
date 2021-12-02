@@ -2,7 +2,7 @@
 /**
  *  Descripción de un estudiante
  * 
- * @author - Marcelino Penide
+ * @author - Ricardo Morales
  * @version Version2
  */
 public class Estudiante
